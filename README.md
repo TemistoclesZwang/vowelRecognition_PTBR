@@ -11,6 +11,7 @@ This repository contains a template for recognizing vowels in the Brazilian Port
 
 5 - Make sure your microphone is turned on and with the proper sensitivity. Speak some vowel into the microphone and wait for the result.
 
+Attention: the recognition of the vowel ''O'' is not very accurate, as I used few data sources to train the model.
 
 This project was made based on this excellent repository. If you want to create your own custom template, follow it:
 https://github.com/falabrasil/kaldi-br

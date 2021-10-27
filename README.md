@@ -22,5 +22,9 @@ I also learned a lot from this repository. It's great for beginners.
 https://github.com/matteo-39/vosk-build-model
 
 Also check the official documentation
-Kaldi: https://kaldi-asr.org/
-Vosk: https://alphacephei.com/vosk/
+
+Kaldi: 
+https://kaldi-asr.org/
+
+Vosk: 
+https://alphacephei.com/vosk/

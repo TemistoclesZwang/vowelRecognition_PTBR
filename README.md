@@ -1,6 +1,8 @@
 # vowelRecognition_PTBR
 This repository contains a template for recognizing vowels in the Brazilian Portuguese language
 
+technologies used:  Machine Learning,Speech Recognition, Kaldi, Shell Script
+
     1 - Make sure you have Python installed.
 
     2 - Clone this project with the command: ''git clone git@github.com:TemistoclesZwang/vowelRecognition_PTBR.git''

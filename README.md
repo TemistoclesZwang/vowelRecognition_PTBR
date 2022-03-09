@@ -1,5 +1,5 @@
 # vowelRecognition_PTBR
-This repository contains a template for recognizing vowels in the Brazilian Portuguese language
+This repository contains a language model that I created to recognize some vowels in Brazilian Portuguese language
 
 **Technologies used:  Machine Learning,Speech Recognition, Kaldi, Shell Script**
 
